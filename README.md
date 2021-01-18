@@ -8,5 +8,7 @@ Sto lavorando a GioTeck.js, un bot Discord tutto fare e open-source disponibile 
 
 Il bot è sotto licenza UnLicense ovvero tutti possono usarlo senza vincoli.
 
-[^Spero che i miei repository vi piacciano 😉]: 
+L'inglese non è il mio forte ma mi impegno per impararlo al meglio.
+
+[^]: Spero che i miei repository vi piacciano 😉
 
